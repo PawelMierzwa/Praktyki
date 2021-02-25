@@ -1,3 +1,5 @@
+package first_week.basics;
+
 public class lekcja_basics {
 
     public static void main(String[] args) {
