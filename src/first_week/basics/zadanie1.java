@@ -7,6 +7,6 @@ public class zadanie1 {
         char c = '@';
         String d = "Ala ";
 
-        System.out.println(d + "ma " + a + " koty " + ",jej ulubionym znakiem jest " + c + " i ulubionyną liczbą jest " + b);
+        System.out.println(d + "ma " + a + " koty " + ",jej ulubionym znakiem jest " + c + " i ulubioną liczbą jest " + b);
     }
 }
